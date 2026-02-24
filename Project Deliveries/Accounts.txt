@@ -1,0 +1,22 @@
+Admin Account:
+Username : admin_l
+Password: A1234
+
+
+
+Manager Account:
+Username : manager_l
+Password: M1234
+
+
+
+Instructor Account:
+Username : instructor_l
+Password: I1234
+
+
+
+
+Student Account:
+Username : student_l
+Password: S1234

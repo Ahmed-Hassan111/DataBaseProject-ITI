@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="AHMEDH:AHMEDH\Ahmed">
+          <Created>2026-02-18T18:02:57.4633277+02:00</Created>
+          <Type>SQL</Type>
+          <Server>AHMEDH</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Creation_Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Creation_Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Creation_Tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Creation_Tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Edit.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Edit.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insertion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insertion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Roles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Roles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Viwes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:AHMEDH:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>AHMEDH</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Viwes.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="Editing">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Editing</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

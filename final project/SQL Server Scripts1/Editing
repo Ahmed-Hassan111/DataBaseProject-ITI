@@ -1,0 +1,19 @@
+---- editing ---
+
+ALTER TABLE Exam
+ADD ExName NVARCHAR(100);
+
+UPDATE Exam
+SET ExName = 'C#Basics'
+WHERE ExId = 4;   
+
+ALTER TABLE Exam
+ADD CONSTRAINT UC_ExName UNIQUE (ExName);
+
+select * from Stanswer
+
+select * from StuExam
+select * from Exam
+
+select * from Course
+select * from Student
